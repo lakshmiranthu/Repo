@@ -17,7 +17,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	
-	</sonar.projectKey>
+	<properties>
+<sonar.projectKey>lakshmiranthu_Repo</sonar.projectKey>
 <sonar.organization>lakshmiranthu</sonar.organization>
 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
